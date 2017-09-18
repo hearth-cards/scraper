@@ -112,6 +112,8 @@ func main() {
 	close(dlCh)
 	wg.Wait()
 	serialize("rewritten.json")
+	minify()
+	serialize("../mrrgll/src/cards.ts")
 }
 
 func serialize(f string) {
@@ -123,9 +125,19 @@ func serialize(f string) {
 		log.Fatal(err)
 	}
 	defer out.Close()
-	j := json.NewEncoder(out)
-	j.SetIndent("", "  ")
-	j.Encode(cards)
+	var dat []byte
+	if strings.HasSuffix(f, ".ts") {
+		out.WriteString(`import {CardDef} from './models'
+			var Cards = `)
+		dat, _ = json.Marshal(cards)
+	} else {
+		dat, _ = json.MarshalIndent(cards, "", "  ")
+	}
+	out.WriteString(strings.TrimSpace(string(dat)))
+	if strings.HasSuffix(f, ".ts") {
+		out.WriteString(` as CardDef[];
+			export default Cards;`)
+	}
 }
 
 type DLReq struct {
@@ -137,11 +149,12 @@ var dlCh = make(chan *DLReq)
 var dl = flag.Bool("dl", false, "download resources to appropriate folders")
 
 type CardInfo struct {
-	URL       string
-	Name      string
-	RegImage  string
-	GoldImage string
-	Sounds    []*SoundInfo
+	URL         string `json:",omitempty"`
+	Name        string
+	RegImage    string
+	GoldImage   string `json:",omitempty"`
+	Collectible bool   `json:",omitempty"`
+	Sounds      []*SoundInfo
 }
 
 type SoundInfo struct {
@@ -156,6 +169,18 @@ func (c *CardInfo) CleanupSounds() {
 	sort.Slice(c.Sounds, func(i, j int) bool {
 		return c.Sounds[i].Name < c.Sounds[j].Name
 	})
+}
+
+func minify() {
+	// make smaller to go better in ts
+	for _, c := range cards {
+		c.URL = ""
+		c.RegImage = strings.TrimPrefix(c.RegImage, "https://cardstatic.hearth.cards/img")
+		c.GoldImage = strings.TrimPrefix(c.GoldImage, "https://goldstatic.hearth.cards/img")
+		for _, s := range c.Sounds {
+			s.URL = strings.TrimPrefix(s.URL, "https://yoggstatic.hearth.cards/s")
+		}
+	}
 }
 
 func worker() {
@@ -192,6 +217,12 @@ func worker() {
 				if id, ok := s.Attr("id"); ok {
 					card.Sounds = append(card.Sounds, &SoundInfo{Name: id, URL: sURL})
 				}
+			}
+		})
+		// look for attributes
+		doc.Find(".infobox ul li").Each(func(i int, s *goquery.Selection) {
+			if s.Text() == "Collectible" {
+				card.Collectible = true
 			}
 		})
 		resp.Close()
