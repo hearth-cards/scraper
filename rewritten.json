@@ -11104,7 +11104,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/237-force-of-nature",
     "Name": "Force of Nature",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/331-13-237.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/0-237-237.webm",
     "Sounds": []
   },
@@ -11341,7 +11341,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/251-gelbin-mekkatorque",
     "Name": "Gelbin Mekkatorque",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/330-513-251.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/0-251-251.webm",
     "Sounds": [
       {
@@ -11686,7 +11686,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/27214-brann-bronzebeard",
     "Name": "Brann Bronzebeard",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/332-502-27214.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/27-214-27214.webm",
     "Sounds": [
       {
@@ -20812,7 +20812,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42020-kindly-grandmother",
     "Name": "Kindly Grandmother",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/331-776-42020.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/42-20-42020.webm",
     "Sounds": [
       {
@@ -24474,7 +24474,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/472-dragonling-mechanic",
     "Name": "Dragonling Mechanic",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/330-399-472.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/0-472-472.webm",
     "Sounds": [
       {
@@ -27769,7 +27769,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49761-street-trickster",
     "Name": "Street Trickster",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/328-962-49761.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/49-761-49761.webm",
     "Sounds": [
       {
@@ -35958,7 +35958,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62850-necrotic-geist",
     "Name": "Necrotic Geist",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/339-788-62850.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/62-850-62850.webm",
     "Sounds": [
       {
@@ -36022,7 +36022,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62853-valkyr-soulclaimer",
     "Name": "Val'kyr Soulclaimer",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/339-581-62853.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/62-853-62853.webm",
     "Sounds": [
       {
@@ -40742,7 +40742,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/7759-thaddius",
     "Name": "Thaddius",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/331-231-7759.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/7-759-7759.webm",
     "Sounds": [
       {
@@ -41143,7 +41143,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/7813-guardian-of-icecrown",
     "Name": "Guardian of Icecrown",
-    "RegImage": "",
+    "RegImage": "https://cardstatic.hearth.cards/img/333-216-7813.png",
     "GoldImage": "https://goldstatic.hearth.cards/img/7-813-7813.webm",
     "Sounds": [
       {

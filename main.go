@@ -29,7 +29,7 @@ func main() {
 	http.DefaultTransport.(*http.Transport).MaxIdleConnsPerHost = 100
 	flag.Parse()
 	var url = hpurl("/cards?display=1&page=1")
-	for i := 0; i < 5; i++ {
+	for i := 0; i < 50; i++ {
 		wg.Add(1)
 		go worker()
 	}
@@ -67,9 +67,6 @@ func main() {
 	close(rCh)
 	rWg.Wait()
 	serialize("cards.json")
-	if !*dl {
-		return
-	}
 	fmt.Println("DOWNLOADING")
 	for i := 0; i < 20; i++ {
 		wg.Add(1)
@@ -80,9 +77,11 @@ func main() {
 			end := strings.TrimPrefix(c.RegImage, "http://media-Hearth.cursecdn.com/avatars/")
 			end = strings.TrimPrefix(end, "https://media-Hearth.cursecdn.com/avatars/")
 			end = strings.Replace(end, "/", "-", -1)
-			dlCh <- &DLReq{
-				URL:  c.RegImage,
-				Path: filepath.Join("..", "cards.static", "img", end),
+			if *dl {
+				dlCh <- &DLReq{
+					URL:  c.RegImage,
+					Path: filepath.Join("..", "cardstatic", "img", end),
+				}
 			}
 			c.RegImage = `https://cardstatic.hearth.cards/img/` + end
 		}
@@ -90,18 +89,22 @@ func main() {
 			end := strings.TrimPrefix(c.GoldImage, "http://media-Hearth.cursecdn.com/goldCards/")
 			end = strings.TrimPrefix(end, "https://media-Hearth.cursecdn.com/goldCards/")
 			end = strings.Replace(end, "/", "-", -1)
-			dest := filepath.Join("..", "gold.static", "img", end)
-			dlCh <- &DLReq{
-				URL:  c.GoldImage,
-				Path: dest,
+			dest := filepath.Join("..", "goldstatic", "img", end)
+			if *dl {
+				dlCh <- &DLReq{
+					URL:  c.GoldImage,
+					Path: dest,
+				}
 			}
 			c.GoldImage = `https://goldstatic.hearth.cards/img/` + end
 		}
 		for _, s := range c.Sounds {
-			dest := filepath.Join("..", "yogg.static", "s", filepath.Base(s.URL))
-			dlCh <- &DLReq{
-				URL:  s.URL,
-				Path: dest,
+			dest := filepath.Join("..", "yoggstatic", "s", filepath.Base(s.URL))
+			if *dl {
+				dlCh <- &DLReq{
+					URL:  s.URL,
+					Path: dest,
+				}
 			}
 			s.URL = `https://yoggstatic.hearth.cards/s/` + filepath.Base(s.URL)
 		}
@@ -161,7 +164,6 @@ func worker() {
 		resp, err := Get(card.URL)
 		if err != nil {
 			log.Printf("Error on %s: %s", card.URL, err)
-			resp.Close()
 			continue
 		}
 		doc, err := goquery.NewDocumentFromReader(resp)
@@ -172,14 +174,14 @@ func worker() {
 		}
 		card.Name = doc.Find(".card-details>header>.caption").First().Text()
 		//images
-		reg := doc.Find(".hscard-static")
-		if reg.Length() == 1 {
+		reg := doc.Find(".u-typography-format .hscard-static")
+		if reg.Length() > 0 {
 			if i, ok := reg.First().Attr("src"); ok {
 				card.RegImage = i
 			}
 		}
 		gold := doc.Find(".hscard-video source").First()
-		if gold.Length() == 1 {
+		if gold.Length() > 0 {
 			if i, ok := gold.First().Attr("src"); ok {
 				card.GoldImage = i
 			}
@@ -217,6 +219,9 @@ func collect() {
 			fmt.Fprintf(odd, "%s (%s) has no imgs\n", card.Name, card.URL)
 			continue
 		}
+		if card.RegImage == "" {
+			fmt.Fprintf(odd, "%s (%s) has gold image, but no regular\n", card.Name, card.URL)
+		}
 		cards = append(cards, card)
 	}
 
@@ -235,7 +240,6 @@ func downloader() {
 		}
 		sLock.Unlock()
 		if skip {
-			log.Printf("%s ALREADY SEEN, SKIPPING", r.Path)
 			continue
 		}
 		if _, err := os.Stat(r.Path); !os.IsNotExist(err) {

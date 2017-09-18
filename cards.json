@@ -3438,7 +3438,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/141-the-coin",
     "Name": "The Coin",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/292/141.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/292/141.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/141/141.webm",
     "Sounds": []
   },
@@ -5954,7 +5954,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/14690-reinforce",
     "Name": "Reinforce",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/90/14690.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/90/14690.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/14/690/14690.webm",
     "Sounds": []
   },
@@ -5996,7 +5996,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/14694-alleria-windrunner",
     "Name": "Alleria Windrunner",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/734/14694.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/734/14694.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/14/694/14694.webm",
     "Sounds": [
       {
@@ -6062,7 +6062,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/147-cabal-shadow-priest",
     "Name": "Cabal Shadow Priest",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/480/147.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/480/147.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/147/147.webm",
     "Sounds": [
       {
@@ -6942,7 +6942,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/183-wicked-knife",
     "Name": "Wicked Knife",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/48/183.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/48/183.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/183/183.webm",
     "Sounds": []
   },
@@ -6969,7 +6969,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/185-shapeshift",
     "Name": "Shapeshift",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/910/185.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/910/185.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/185/185.webm",
     "Sounds": []
   },
@@ -7014,7 +7014,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/190-panther",
     "Name": "Panther",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/600/190.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/600/190.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/190/190.webm",
     "Sounds": [
       {
@@ -7188,7 +7188,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/20-life-tap",
     "Name": "Life Tap",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/3/20.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/3/20.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/20/20.webm",
     "Sounds": [
       {
@@ -7224,7 +7224,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/201-dagger-mastery",
     "Name": "Dagger Mastery",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/54/201.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/54/201.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/201/201.webm",
     "Sounds": []
   },
@@ -10694,7 +10694,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/225-houndmaster",
     "Name": "Houndmaster",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/303/225.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/303/225.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/225/225.webm",
     "Sounds": [
       {
@@ -11104,7 +11104,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/237-force-of-nature",
     "Name": "Force of Nature",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/13/237.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/237/237.webm",
     "Sounds": []
   },
@@ -11300,7 +11300,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/248-reinforce",
     "Name": "Reinforce",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/87/248.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/87/248.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/248/248.webm",
     "Sounds": []
   },
@@ -11341,7 +11341,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/251-gelbin-mekkatorque",
     "Name": "Gelbin Mekkatorque",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/513/251.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/251/251.webm",
     "Sounds": [
       {
@@ -11372,7 +11372,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/253-armor-up",
     "Name": "Armor Up!",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/99/253.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/99/253.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/253/253.webm",
     "Sounds": []
   },
@@ -11686,7 +11686,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/27214-brann-bronzebeard",
     "Name": "Brann Bronzebeard",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/332/502/27214.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/27/214/27214.webm",
     "Sounds": [
       {
@@ -14634,7 +14634,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/275-healing-totem",
     "Name": "Healing Totem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/459/275.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/459/275.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/275/275.webm",
     "Sounds": [
       {
@@ -14880,7 +14880,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/282-wild-growth",
     "Name": "Wild Growth",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/904/282.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/904/282.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/282/282.webm",
     "Sounds": [
       {
@@ -15249,7 +15249,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/310-stormwind-champion",
     "Name": "Stormwind Champion",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/246/310.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/246/310.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/310/310.webm",
     "Sounds": [
       {
@@ -15499,7 +15499,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/31127-lady-liadrin",
     "Name": "Lady Liadrin",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/728/31127.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/728/31127.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/31/127/31127.webm",
     "Sounds": [
       {
@@ -15977,7 +15977,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/316-totemic-call",
     "Name": "Totemic Call",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/982/316.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/982/316.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/316/316.webm",
     "Sounds": [
       {
@@ -16016,7 +16016,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/319-thrall",
     "Name": "Thrall",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/713/319.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/713/319.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/319/319.webm",
     "Sounds": [
       {
@@ -16747,7 +16747,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/33150-shadow-word-horror",
     "Name": "Shadow Word: Horror",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/681/33150.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/681/33150.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/33/150/33150.webm",
     "Sounds": []
   },
@@ -18537,7 +18537,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/35233-nerubian-prophet",
     "Name": "Nerubian Prophet",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/732/35233.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/732/35233.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/35/233/35233.webm",
     "Sounds": [
       {
@@ -19139,7 +19139,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/35285-rusty-hook",
     "Name": "Rusty Hook",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/618/35285.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/618/35285.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/35/285/35285.webm",
     "Sounds": []
   },
@@ -19361,7 +19361,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/35326-shadowbeast",
     "Name": "Shadowbeast",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/870/35326.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/870/35326.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/35/326/35326.webm",
     "Sounds": [
       {
@@ -19381,7 +19381,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/35327-slime",
     "Name": "Slime",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/882/35327.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/882/35327.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/35/327/35327.webm",
     "Sounds": [
       {
@@ -19967,7 +19967,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/363-eaglehorn-bow",
     "Name": "Eaglehorn Bow",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/947/363.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/947/363.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/363/363.webm",
     "Sounds": []
   },
@@ -19981,7 +19981,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/365-wrath-of-air-totem",
     "Name": "Wrath of Air Totem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/997/365.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/997/365.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/365/365.webm",
     "Sounds": [
       {
@@ -20035,7 +20035,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/369-huffer",
     "Name": "Huffer",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/528/369.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/528/369.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/369/369.webm",
     "Sounds": [
       {
@@ -20133,7 +20133,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/378-fan-of-knives",
     "Name": "Fan of Knives",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/531/378.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/531/378.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/378/378.webm",
     "Sounds": []
   },
@@ -20812,7 +20812,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42020-kindly-grandmother",
     "Name": "Kindly Grandmother",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/776/42020.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/20/42020.webm",
     "Sounds": [
       {
@@ -21552,7 +21552,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42056-priest-of-the-feast",
     "Name": "Priest of the Feast",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/836/42056.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/836/42056.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/56/42056.webm",
     "Sounds": [
       {
@@ -21984,7 +21984,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42086-abyssal",
     "Name": "Abyssal",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/332/82/42086.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/332/82/42086.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/86/42086.webm",
     "Sounds": [
       {
@@ -22665,7 +22665,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42163-shadow-volley",
     "Name": "Shadow Volley",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/332/280/42163.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/332/280/42163.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/163/42163.webm",
     "Sounds": []
   },
@@ -22958,7 +22958,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42196-big-bad-wolf",
     "Name": "Big Bad Wolf",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/779/42196.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/779/42196.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/196/42196.webm",
     "Sounds": [
       {
@@ -23169,7 +23169,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/42209-atiesh",
     "Name": "Atiesh",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/911/42209.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/911/42209.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/42/209/42209.webm",
     "Sounds": []
   },
@@ -24275,7 +24275,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/453-bloodsail-corsair",
     "Name": "Bloodsail Corsair",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/501/453.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/501/453.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/453/453.webm",
     "Sounds": [
       {
@@ -24474,7 +24474,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/472-dragonling-mechanic",
     "Name": "Dragonling Mechanic",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/399/472.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/472/472.webm",
     "Sounds": [
       {
@@ -24494,7 +24494,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/473-argent-squire",
     "Name": "Argent Squire",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/357/473.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/357/473.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/473/473.webm",
     "Sounds": [
       {
@@ -24726,7 +24726,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/489-arcane-intellect",
     "Name": "Arcane Intellect",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/916/489.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/916/489.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/489/489.webm",
     "Sounds": []
   },
@@ -24925,7 +24925,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49624-patches-the-pirate",
     "Name": "Patches the Pirate",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/274/49624.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/274/49624.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/624/49624.webm",
     "Sounds": [
       {
@@ -25447,7 +25447,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49648-dragonfire-potion",
     "Name": "Dragonfire Potion",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/334/49648.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/334/49648.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/648/49648.webm",
     "Sounds": []
   },
@@ -25665,7 +25665,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49667-grimestreet-enforcer",
     "Name": "Grimestreet Enforcer",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/277/49667.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/277/49667.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/667/49667.webm",
     "Sounds": [
       {
@@ -27769,7 +27769,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49761-street-trickster",
     "Name": "Street Trickster",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/328/962/49761.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/761/49761.webm",
     "Sounds": [
       {
@@ -28425,7 +28425,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49850-jade-golem",
     "Name": "Jade Golem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/403/49850.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/403/49850.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/850/49850.webm",
     "Sounds": [
       {
@@ -28445,7 +28445,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49851-jade-golem",
     "Name": "Jade Golem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/406/49851.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/406/49851.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/851/49851.webm",
     "Sounds": [
       {
@@ -28465,7 +28465,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49852-jade-golem",
     "Name": "Jade Golem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/409/49852.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/409/49852.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/852/49852.webm",
     "Sounds": [
       {
@@ -28485,7 +28485,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49853-jade-golem",
     "Name": "Jade Golem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/412/49853.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/412/49853.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/853/49853.webm",
     "Sounds": [
       {
@@ -28505,7 +28505,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/49854-jade-golem",
     "Name": "Jade Golem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/415/49854.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/415/49854.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/49/854/49854.webm",
     "Sounds": [
       {
@@ -30105,7 +30105,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/52594-plant",
     "Name": "Plant",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/365/52594.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/365/52594.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/52/594/52594.webm",
     "Sounds": [
       {
@@ -30605,7 +30605,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/53-ashbringer",
     "Name": "Ashbringer",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/854/53.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/854/53.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/53/53.webm",
     "Sounds": []
   },
@@ -30864,7 +30864,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55444-galvadon",
     "Name": "Galvadon",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/325/55444.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/325/55444.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/444/55444.webm",
     "Sounds": [
       {
@@ -31250,7 +31250,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55466-fire-fly",
     "Name": "Fire Fly",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/100/55466.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/100/55466.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/466/55466.webm",
     "Sounds": [
       {
@@ -31314,7 +31314,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55469-flame-elemental",
     "Name": "Flame Elemental",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/103/55469.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/103/55469.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/469/55469.webm",
     "Sounds": [
       {
@@ -31714,7 +31714,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55494-mana-treant",
     "Name": "Mana Treant",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/34/55494.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/34/55494.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/494/55494.webm",
     "Sounds": [
       {
@@ -32133,7 +32133,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55518-raptor",
     "Name": "Raptor",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/334/962/55518.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/334/962/55518.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/518/55518.webm",
     "Sounds": [
       {
@@ -32493,7 +32493,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55538-jungle-giants",
     "Name": "Jungle Giants",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/40/55538.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/40/55538.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/538/55538.webm",
     "Sounds": [
       {
@@ -32675,7 +32675,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55548-earthen-scales",
     "Name": "Earthen Scales",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/25/55548.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/25/55548.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/548/55548.webm",
     "Sounds": []
   },
@@ -32749,7 +32749,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55553-molten-reflection",
     "Name": "Molten Reflection",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/310/55553.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/310/55553.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/553/55553.webm",
     "Sounds": []
   },
@@ -33524,7 +33524,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55599-devilsaur",
     "Name": "Devilsaur",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/334/977/55599.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/334/977/55599.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/599/55599.webm",
     "Sounds": [
       {
@@ -33571,7 +33571,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55602-primalfin",
     "Name": "Primalfin",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/335/49/55602.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/335/49/55602.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/602/55602.webm",
     "Sounds": [
       {
@@ -33625,21 +33625,21 @@
   {
     "URL": "http://www.hearthpwn.com/cards/55647-wicked-knife",
     "Name": "Wicked Knife",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/51/55647.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/51/55647.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/647/55647.webm",
     "Sounds": []
   },
   {
     "URL": "http://www.hearthpwn.com/cards/55648-dagger-mastery",
     "Name": "Dagger Mastery",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/57/55648.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/57/55648.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/648/55648.webm",
     "Sounds": []
   },
   {
     "URL": "http://www.hearthpwn.com/cards/55649-maiev-shadowsong",
     "Name": "Maiev Shadowsong",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/722/55649.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/722/55649.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/55/649/55649.webm",
     "Sounds": [
       {
@@ -34213,7 +34213,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/583-heavy-axe",
     "Name": "Heavy Axe",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/902/583.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/902/583.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/583/583.webm",
     "Sounds": []
   },
@@ -34342,7 +34342,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/58723-prince-keleseth",
     "Name": "Prince Keleseth",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/767/58723.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/767/58723.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/58/723/58723.webm",
     "Sounds": [
       {
@@ -34366,7 +34366,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/58724-deathstalker-rexxar",
     "Name": "Deathstalker Rexxar",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/667/58724.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/667/58724.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/58/724/58724.webm",
     "Sounds": [
       {
@@ -34386,7 +34386,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/58725-build-a-beast",
     "Name": "Build-A-Beast",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/669/58725.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/669/58725.png",
     "GoldImage": "",
     "Sounds": []
   },
@@ -34701,7 +34701,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/593-misha",
     "Name": "Misha",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/522/593.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/333/522/593.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/593/593.webm",
     "Sounds": [
       {
@@ -35014,7 +35014,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/618-guldan",
     "Name": "Gul'dan",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/740/618.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/740/618.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/618/618.webm",
     "Sounds": [
       {
@@ -35772,7 +35772,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62838-shadowblade",
     "Name": "Shadowblade",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/764/62838.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/764/62838.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/838/62838.webm",
     "Sounds": []
   },
@@ -35806,7 +35806,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62841-spreading-plague",
     "Name": "Spreading Plague",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/379/62841.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/379/62841.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/841/62841.webm",
     "Sounds": []
   },
@@ -35958,7 +35958,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62850-necrotic-geist",
     "Name": "Necrotic Geist",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/788/62850.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/850/62850.webm",
     "Sounds": [
       {
@@ -36022,7 +36022,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62853-valkyr-soulclaimer",
     "Name": "Val'kyr Soulclaimer",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/581/62853.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/853/62853.webm",
     "Sounds": [
       {
@@ -36458,7 +36458,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62879-ultimate-infestation",
     "Name": "Ultimate Infestation",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/431/62879.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/431/62879.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/879/62879.webm",
     "Sounds": []
   },
@@ -36824,7 +36824,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62901-saronite-chain-gang",
     "Name": "Saronite Chain Gang",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/593/62901.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/593/62901.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/901/62901.webm",
     "Sounds": [
       {
@@ -36968,7 +36968,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62908-plague-lord",
     "Name": "Plague Lord",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/715/62908.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/715/62908.png",
     "GoldImage": "",
     "Sounds": []
   },
@@ -37366,7 +37366,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62935-siphon-life",
     "Name": "Siphon Life",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/705/62935.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/705/62935.png",
     "GoldImage": "",
     "Sounds": []
   },
@@ -37644,7 +37644,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62948-acherus-veteran",
     "Name": "Acherus Veteran",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/452/62948.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/452/62948.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/62/948/62948.webm",
     "Sounds": [
       {
@@ -37786,7 +37786,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/62957-reinforce",
     "Name": "Reinforce",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/159/62957.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/159/62957.png",
     "GoldImage": "",
     "Sounds": []
   },
@@ -38222,7 +38222,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63030-druid-of-the-swarm",
     "Name": "Druid of the Swarm",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/370/63030.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/370/63030.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/30/63030.webm",
     "Sounds": [
       {
@@ -38262,7 +38262,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63035-ghoul-infestor",
     "Name": "Ghoul Infestor",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/434/63035.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/434/63035.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/35/63035.webm",
     "Sounds": [
       {
@@ -38317,7 +38317,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63053-obliterate",
     "Name": "Obliterate",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/566/63053.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/566/63053.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/53/63053.webm",
     "Sounds": []
   },
@@ -38546,7 +38546,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63090-frost-widow",
     "Name": "Frost Widow",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/723/63090.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/723/63090.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/90/63090.webm",
     "Sounds": [
       {
@@ -38566,7 +38566,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63091-scarab-beetle",
     "Name": "Scarab Beetle",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/726/63091.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/726/63091.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/91/63091.webm",
     "Sounds": [
       {
@@ -38606,7 +38606,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63097-shadowmourne",
     "Name": "Shadowmourne",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/740/63097.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/740/63097.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/97/63097.webm",
     "Sounds": []
   },
@@ -39051,7 +39051,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63153-valkyr-shadowguard",
     "Name": "Val'kyr Shadowguard",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/927/63153.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/927/63153.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/153/63153.webm",
     "Sounds": [
       {
@@ -39131,14 +39131,14 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63165-the-price-of-power",
     "Name": "The Price of Power",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/955/63165.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/955/63165.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/165/63165.webm",
     "Sounds": []
   },
   {
     "URL": "http://www.hearthpwn.com/cards/63166-shut-up-priest",
     "Name": "Shut up, Priest",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/958/63166.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/958/63166.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/166/63166.webm",
     "Sounds": []
   },
@@ -39152,7 +39152,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63168-harvest-of-souls",
     "Name": "Harvest of Souls",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/964/63168.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/964/63168.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/168/63168.webm",
     "Sounds": []
   },
@@ -39186,7 +39186,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/63171-blood-beast",
     "Name": "Blood Beast",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/339/973/63171.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/339/973/63171.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/63/171/63171.webm",
     "Sounds": [
       {
@@ -39301,7 +39301,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/635-garrosh-hellscream",
     "Name": "Garrosh Hellscream",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/707/635.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/331/707/635.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/635/635.webm",
     "Sounds": [
       {
@@ -39771,7 +39771,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/677-fireblast",
     "Name": "Fireblast",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/946/677.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/946/677.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/677/677.webm",
     "Sounds": []
   },
@@ -39892,7 +39892,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/689-hyena",
     "Name": "Hyena",
-    "RegImage": "https://media-Hearth.cursecdn.com/avatars/330/944/689.png",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/330/944/689.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/689/689.webm",
     "Sounds": [
       {
@@ -40742,7 +40742,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/7759-thaddius",
     "Name": "Thaddius",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/331/231/7759.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/7/759/7759.webm",
     "Sounds": [
       {
@@ -41143,7 +41143,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/7813-guardian-of-icecrown",
     "Name": "Guardian of Icecrown",
-    "RegImage": "",
+    "RegImage": "http://media-Hearth.cursecdn.com/avatars/333/216/7813.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/7/813/7813.webm",
     "Sounds": [
       {
@@ -42238,7 +42238,7 @@
   {
     "URL": "http://www.hearthpwn.com/cards/98-searing-totem",
     "Name": "Searing Totem",
-    "RegImage": "http://media-Hearth.cursecdn.com/avatars/329/991/98.png",
+    "RegImage": "https://media-Hearth.cursecdn.com/avatars/329/991/98.png",
     "GoldImage": "http://media-Hearth.cursecdn.com/goldCards/0/98/98.webm",
     "Sounds": [
       {
